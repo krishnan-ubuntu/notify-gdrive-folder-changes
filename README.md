@@ -17,3 +17,16 @@ Step 4: Accept all the permissions
 Step 5: Set triger for auto execution (Resources -> All your triggers -> Add a new trigger)
 
 Step 6: Set the trigger as time driver and set the time interval as 5 minutes
+
+
+## Copyright
+
+This script is the property of Adjutas Cloud Technology.
+
+
+## Website
+
+http://gfw.adjutas.com
+
+https://sites.google.com/a/adjutas.com/google-apps-script/home
+
